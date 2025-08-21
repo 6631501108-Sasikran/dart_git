@@ -5,6 +5,7 @@ void main() {
     {"id": 2, "item": "coffee", "paid": 70},
   ];
   print('===== Expense tracking app ===== ');
+  print('I love you');
   print('1. Show all');
   print('2. Total paid');
   stdout.write('Enter 1 or 2....');
