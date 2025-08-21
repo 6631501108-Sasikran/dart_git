@@ -1,4 +1,8 @@
 
-void main(List<String> arguments) {
-  print('Expense tracking app');
+void main() {
+  List expenses = [
+    {"id": 1, "item": "lunch", "paid": 50},
+    {"id": 2, "item": "coffee", "paid": 70},
+  ];
+
 }
